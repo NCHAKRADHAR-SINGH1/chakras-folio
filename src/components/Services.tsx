@@ -14,20 +14,6 @@ import {
 const Services = () => {
   const services = [
     {
-      icon: Palette,
-      title: 'UI/UX Design',
-      description: 'Creating intuitive wireframes, prototypes, and usability-first layouts that provide excellent user experiences.',
-      features: [
-        'Wireframing & Prototyping',
-        'User Research',
-        'Responsive Design',
-        'Accessibility Focus'
-      ],
-      color: 'text-primary',
-      bgColor: 'bg-primary/10',
-      gradient: 'from-primary/20 to-primary/5'
-    },
-    {
       icon: Code,
       title: 'Web Design & Development',
       description: 'Building responsive websites with clean components, modern frameworks, and efficient backend solutions.',
